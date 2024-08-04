@@ -1,6 +1,6 @@
 # Hi there, I'm Oussama 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=OussamaSegh&color=green)
 
 I'm a software engineer based in Toulouse, France. I currently work as a software engineer and am always looking for opportunities to learn and grow.
 
@@ -22,22 +22,30 @@ I'm a software engineer based in Toulouse, France. I currently work as a softwar
 - **Personal Development:** Learning to trade the market.
 - **Health & Fitness:** Regular workouts to maintain a healthy body and lifestyle.
 
-## 🌱 I’m currently learning
+## 🌱 I’m always learning
 
 - Advanced algorithms and data structures
-- Cloud computing (AWS, Azure, GCP)
+- Software design and architecure
+- Artificial Intelligence
 - Financial trading and market analysis
 
 ## 💼 Experience
 
 - **Software Engineer at Forsk**
-  - Developed and maintained ACP
+Forsk is a software company specializing in wireless network design and optimization products.
+
+I maintained and added features to their flagship product, Atoll—a Windows software developed in C++17 with a Python API, used for designing and optimizing wireless communication networks.
+
+In the Dev-Support team, I investigated and resolved client-reported bugs and issues using advanced debugging techniques, dump analysis, and performance profiling. I collaborated with the support team to address and resolve critical issues for clients.
+
+Primarily working in the ACP team, I was responsible for the Automatic Cell Planning module in Atoll, which optimizes multi-technology mobile networks using metaheuristic algorithms where performance is critical. I engaged in the full development lifecycle of new features, including specification with the product owner, architecture design, development, and bug fixing. Additionally, I performed code reviews, optimized algorithms, and refactored both code and design.
+
+Acquired skills include: software design, algorithmics, debugging, performance optimization, C++17, MFC, Git, Python, Windows API, and teamwork.
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Email: your.email@example.com
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/osghr/)
+- Email: oussama.seghaier@gmail.com
 
 ## ⚡ Fun fact
 
@@ -45,15 +53,13 @@ I enjoy exploring new technologies, working out, and analyzing market trends dur
 
 ## 📈 GitHub Stats
 
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaSegh&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaSegh&layout=compact&theme=dark)
 
 ## 🏆 Achievements
 
-- Successfully implemented a microservices architecture at my current job.
-- Consistently achieved top performance ratings in my team.
-- Completed several online courses in advanced software engineering and financial trading.
+- 
 
 ---
 
