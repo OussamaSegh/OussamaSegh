@@ -2,25 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OussamaSegh&color=green)
 
-I'm a software engineer based in Toulouse, France. I currently work as a software engineer and am always looking for opportunities to learn and grow.
+I'm a software engineer based in Toulouse, France. I currently work as a C++ software engineer and am always looking for opportunities to learn and grow.
 
 ## 🛠 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 ## 🔭 Current Goals
 
-- **Professional:** 
-- **Personal Development:** Learning to trade the market.
-- **Health & Fitness:** Regular workouts to maintain a healthy body and lifestyle.
+- **Professional:** Become an expert in software architecture and C++
 
 ## 🌱 I’m always learning
 
@@ -56,10 +48,6 @@ I enjoy exploring new technologies, working out, and analyzing market trends dur
 ![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaSegh&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaSegh&layout=compact&theme=dark)
-
-## 🏆 Achievements
-
-- 
 
 ---
 
